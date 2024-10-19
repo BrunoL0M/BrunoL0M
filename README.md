@@ -1,55 +1,27 @@
-<h1 align="center">Hola, Este soy yo!</h1>
+# ♘ Bruno_OM
 
-###
+**`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
 
-<h2 align="center">Sobre mi:</h2>
+<p>Soy Bruno Ortega y vivo en Paraguay, comence estudiando a principios de 2022, actualmente sigo enfocado con estudiar y ser algun dia un Ingeniero Software. Constantemente me esfuerzo por mejorar mis habilidades de programación, explorando diversos lenguajes y tecnologías para crear soluciones eficientes y efectivas.<br><br>Mi interés por la Arquitectura y Diseño de Software me ha llevado a profundizar en los principios y prácticas de desarrollo de sistemas modernos a gran escala. Estoy comprometido con comprender cómo diseñar y construir aplicaciones robustas y escalables que puedan satisfacer las demandas de un mundo digital en constante evolución, buscando combinar la funcionalidad con una experiencia de usuario excepcional. Además, estoy incursionando en el análisis de datos, reconociendo su importancia en la toma de decisiones informadas y la optimización de procesos.<br><br>Mi objetivo es seguir creciendo como ingeniero de software, contribuyendo con soluciones innovadoras y siendo parte del avance tecnológico que impacta positivamente en la sociedad y comunidad de desarrolladores.</p>
 
-###
+## 🔧 Lenguajes y Herramientas
 
-<p align="center">Soy Bruno Ortega y vivo en Paraguay, comence estudiando a principios de 2022, actualmente sigo enfocado con estudiar y ser algun dia un Ingeniero Software. Constantemente me esfuerzo por mejorar mis habilidades de programación, explorando diversos lenguajes y tecnologías para crear soluciones eficientes y efectivas.<br><br>Mi interés por la Arquitectura y Diseño de Software me ha llevado a profundizar en los principios y prácticas de desarrollo de sistemas modernos a gran escala. Estoy comprometido con comprender cómo diseñar y construir aplicaciones robustas y escalables que puedan satisfacer las demandas de un mundo digital en constante evolución, buscando combinar la funcionalidad con una experiencia de usuario excepcional. Además, estoy incursionando en el análisis de datos, reconociendo su importancia en la toma de decisiones informadas y la optimización de procesos.<br><br>Mi objetivo es seguir creciendo como ingeniero de software, contribuyendo con soluciones innovadoras y siendo parte del avance tecnológico que impacta positivamente en la sociedad y comunidad de desarrolladores.</p>
+<img align="left" alt="python logo" width="90px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy logo"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"  alt="pandas logo"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  alt="django logo"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  alt="docker logo"  />
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo"  />
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  alt="git logo"  />
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter logo"/>
+<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="vscode logo"/>
 
-###
+<br clear="left"/>
 
-<h2 align="center">Programo</h2>
+## Certificaciones
+<a href="https://www.credly.com/badges/83ed9bb7-d0f4-4604-826f-71daa1baab8c/public_url">
+  <img src="Certificaciones/introduction-to-cybersecurity.png" height="90px" alt="Insignia de Introducción a la Ciberseguridad" />
+</a>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<h2 align="center">Uso Herramientas:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
