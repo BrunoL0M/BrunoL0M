@@ -21,7 +21,6 @@
 <br clear="left"/>
 
 ## Certificaciones
-<a href="https://www.credly.com/badges/83ed9bb7-d0f4-4604-826f-71daa1baab8c/public_url">
-  <img src="Certificaciones/introduction-to-cybersecurity.png" height="90px" alt="Insignia de Introducción a la Ciberseguridad" />
+<a href="https://www.credly.com/badges/10ab9ac6-e63f-404d-ad83-bd193a021cf9/public_url">
+  <img src="Certificaciones/google-cybersecurity-certificate.png" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
 </a>
-
