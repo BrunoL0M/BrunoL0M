@@ -40,7 +40,7 @@
 
 <br clear="left"/>
 
-## 📈 Interesting numbers
+## 📈 Estadisticas:
 <div style="display: flex; justify-content: center;">
   <!-- Primer panel (GitHub Stats) -->
   <div>
