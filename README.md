@@ -1,6 +1,6 @@
 # ♘ Bruno_OM
 
-**`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
+**`Paraguay `** **`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
 
 <p>Soy Bruno Ortega y vivo en Paraguay, comence estudiando a principios de 2022, actualmente sigo enfocado con estudiar y ser algun dia un Ingeniero Software. Constantemente me esfuerzo por mejorar mis habilidades de programación, explorando diversos lenguajes y tecnologías para crear soluciones eficientes y efectivas.<br><br>Mi interés por la Arquitectura y Diseño de Software me ha llevado a profundizar en los principios y prácticas de desarrollo de sistemas modernos a gran escala. Estoy comprometido con comprender cómo diseñar y construir aplicaciones robustas y escalables que puedan satisfacer las demandas de un mundo digital en constante evolución, buscando combinar la funcionalidad con una experiencia de usuario excepcional. Además, estoy incursionando en el análisis de datos, reconociendo su importancia en la toma de decisiones informadas y la optimización de procesos.<br><br>Mi objetivo es seguir creciendo como ingeniero de software, contribuyendo con soluciones innovadoras y siendo parte del avance tecnológico que impacta positivamente en la sociedad y comunidad de desarrolladores.</p>
 
