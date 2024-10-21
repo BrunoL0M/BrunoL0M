@@ -1,6 +1,6 @@
 # ♘ Bruno_OM
 
-**`Paraguay `** **`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
+**`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
 
 <p>Soy Bruno Ortega y vivo en Paraguay, comence estudiando a principios de 2022, actualmente sigo enfocado con estudiar y ser algun dia un Ingeniero Software. Constantemente me esfuerzo por mejorar mis habilidades de programación, explorando diversos lenguajes y tecnologías para crear soluciones eficientes y efectivas.<br><br>Mi interés por la Arquitectura y Diseño de Software me ha llevado a profundizar en los principios y prácticas de desarrollo de sistemas modernos a gran escala. Estoy comprometido con comprender cómo diseñar y construir aplicaciones robustas y escalables que puedan satisfacer las demandas de un mundo digital en constante evolución, buscando combinar la funcionalidad con una experiencia de usuario excepcional. Además, estoy incursionando en el análisis de datos, reconociendo su importancia en la toma de decisiones informadas y la optimización de procesos.<br><br>Mi objetivo es seguir creciendo como ingeniero de software, contribuyendo con soluciones innovadoras y siendo parte del avance tecnológico que impacta positivamente en la sociedad y comunidad de desarrolladores.</p>
 
@@ -24,3 +24,8 @@
 <a href="https://www.credly.com/badges/10ab9ac6-e63f-404d-ad83-bd193a021cf9/public_url">
   <img src="Certificaciones/google-cybersecurity-certificate.png" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
 </a>
+
+
+
+
+[![Spotify](https://novatorem-b62swirfh-brunol0ms-projects.vercel.app/api/spotify)](https://open.spotify.com/user/w8kw9r787u82v7cv16bz7puun?si=71161e7de8184f24)
