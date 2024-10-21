@@ -1,8 +1,28 @@
+<div align="center">
+<a href="https://github.com/BrunoL0M/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://BrunoL0M.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow&spin=true"
+    />
+    <source
+      media="(prefers-color-scheme: dark )"
+      srcset="https://BrunoL0M.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow&spin=true"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/BrunoL0M/Spotify-Readme -->
+  </picture>
+</a>
+</div>
+
+
 # ♘ Bruno_OM
 
 **`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
 
-<p>Soy Bruno Ortega y vivo en Paraguay, comence estudiando a principios de 2022, actualmente sigo enfocado con estudiar y ser algun dia un Ingeniero Software. Constantemente me esfuerzo por mejorar mis habilidades de programación, explorando diversos lenguajes y tecnologías para crear soluciones eficientes y efectivas.<br><br>Mi interés por la Arquitectura y Diseño de Software me ha llevado a profundizar en los principios y prácticas de desarrollo de sistemas modernos a gran escala. Estoy comprometido con comprender cómo diseñar y construir aplicaciones robustas y escalables que puedan satisfacer las demandas de un mundo digital en constante evolución, buscando combinar la funcionalidad con una experiencia de usuario excepcional. Además, estoy incursionando en el análisis de datos, reconociendo su importancia en la toma de decisiones informadas y la optimización de procesos.<br><br>Mi objetivo es seguir creciendo como ingeniero de software, contribuyendo con soluciones innovadoras y siendo parte del avance tecnológico que impacta positivamente en la sociedad y comunidad de desarrolladores.</p>
+<p>Soy Bruno Ortega, aspirante a <strong>ingeniero software</strong>, tengo un gran intereses hacia el are de Inteligencia Artificial y la ciberseguridad, 
+   actualmente estoy tratando de crear proyectos y espero que estos puedan tanto servirme a mi en la experiencia, como tambien al publico general que siempre uno busca
+   en como contribuir en proyectos de codigo abierto y tambien no duden en pedirme ayuda 😉.
+</p>
 
 ## 🔧 Lenguajes y Herramientas
 
@@ -19,6 +39,54 @@
 <img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="vscode logo"/>
 
 <br clear="left"/>
+
+## 📈 Interesting numbers
+<div style="display: flex; justify-content: center;">
+  <!-- Primer panel (GitHub Stats) -->
+  <div>
+    <picture>
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats.vercel.app/api?username=BrunoL0M&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default&bg_color=F6F8FA"
+      />
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=BrunoL0M&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
+      />
+      <img alt="GitHub Stats">
+    </picture>
+  </div>
+
+  <!-- Segundo panel (Most Used Languages) -->
+  <div style="margin-left: 20px;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoL0M&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default&bg_color=F6F8FA"
+      />
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoL0M&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
+      />
+      <img alt="Most Used Languages">
+    </picture>
+  </div>
+</div>
+
+<!-- Tercer panel (GitHub Streak Stats) -->
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=BrunoL0M&hide_border=true&ring=5D99FE&theme=default&background=F6F8FA&currStreakLabel=000"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=BrunoL0M&hide_border=true&ring=5D99FE&theme=dark&background=161B22&currStreakLabel=FFF"
+    />
+    <img alt="GitHub Streak Stats">
+  </picture>
+</div>
 
 ## Certificaciones
 <a href="https://www.credly.com/badges/10ab9ac6-e63f-404d-ad83-bd193a021cf9/public_url">
