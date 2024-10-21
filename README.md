@@ -24,8 +24,3 @@
 <a href="https://www.credly.com/badges/10ab9ac6-e63f-404d-ad83-bd193a021cf9/public_url">
   <img src="Certificaciones/google-cybersecurity-certificate.png" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
 </a>
-
-
-
-
-[![Spotify](https://novatorem-b62swirfh-brunol0ms-projects.vercel.app/api/spotify)](https://open.spotify.com/user/w8kw9r787u82v7cv16bz7puun?si=71161e7de8184f24)
