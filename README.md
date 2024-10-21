@@ -14,8 +14,26 @@
 </a>
 </div>
 
+<div align="center">
 
-# ♘ Bruno_OM
+  # ♘ Bruno_OM
+
+</div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Python-brown?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-NumPy-lightblue?style=for-the-badge&logo=numpy&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black" />
+
+</div>
+
+<hr>
 
 **`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
 
@@ -23,20 +41,6 @@
    actualmente estoy tratando de crear proyectos y espero que estos puedan tanto servirme a mi en la experiencia, como tambien al publico general que siempre uno busca
    en como contribuir en proyectos de codigo abierto y tambien no duden en pedirme ayuda 😉.
 </p>
-
-## 🔧 Lenguajes y Herramientas
-
-<img align="left" alt="python logo" width="90px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy logo"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"  alt="pandas logo"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  alt="django logo"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  alt="docker logo"  />
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo"  />
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  alt="git logo"  />
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter logo"/>
-<img align="left" style="padding-right-10px;" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="vscode logo"/>
 
 <br clear="left"/>
 
