@@ -104,7 +104,7 @@
 </a>
 
 <a href="https://github.com/BrunoL0M/BrunoL0M/blob/main/Certificaciones/UC-AWSBrunoOrtega).pdf">
-  <img src="Certificaciones/AWS.png" height="110px" alt="Certificado de arquitectura en la nube con AWS" />
+  <img src="Certificaciones/AWS.png" height="90px" alt="Certificado de arquitectura en la nube con AWS" />
 </a>
 
 <img
