@@ -98,3 +98,8 @@
 <a href="https://www.credly.com/badges/10ab9ac6-e63f-404d-ad83-bd193a021cf9/public_url">
   <img src="Certificaciones/google-cybersecurity-certificate.png" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
 </a>
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Rainbow.gif"/>
