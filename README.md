@@ -103,8 +103,8 @@
   <img src="Certificaciones/Excel Icon.png" height="110px" alt="certificado Excel Avanzado" />
 </a>
 
-<a href="https://github.com/BrunoL0M/BrunoL0M/blob/main/Certificaciones/UC-BrunoOrtegaExcelAvanzado.pdf">
-  <img src="Certificaciones/Excel Icon.png" height="110px" alt="certificado Excel Avanzado" />
+<a href="https://github.com/BrunoL0M/BrunoL0M/blob/main/Certificaciones/UC-AWSBrunoOrtega).pdf">
+  <img src="Certificaciones/AWS.png" height="110px" alt="Certificado de arquitectura en la nube con AWS" />
 </a>
 
 <img
