@@ -100,7 +100,7 @@
 </a>
 
 <a href="https://github.com/BrunoL0M/BrunoL0M/blob/main/Certificaciones/UC-BrunoOrtegaExcelAvanzado.pdf">
-  <img src="" height="110px" alt="certificado Excel Avanzado" />
+  <img src="Certificaciones/Excel Icon.png" height="110px" alt="certificado Excel Avanzado" />
 </a>
 
 <img
