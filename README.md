@@ -95,6 +95,10 @@
 </div>
 
 ## Certificaciones
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/BrunoOrtega-0929/CFXYG5P9?sharingId=452AE295AD660110"> 
+  <img src="Certificaciones/8-learn-continous-integration-with-github-actions.svg" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
+</a>
+
 <a href="https://www.credly.com/badges/10ab9ac6-e63f-404d-ad83-bd193a021cf9/public_url">
   <img src="Certificaciones/google-cybersecurity-certificate.png" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
 </a>
