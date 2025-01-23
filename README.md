@@ -1,18 +1,4 @@
-<div align="center">
-<a href="https://github.com/BrunoL0M/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://BrunoL0M.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow&spin=true"
-    />
-    <source
-      media="(prefers-color-scheme: dark )"
-      srcset="https://BrunoL0M.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow&spin=true"
-    />
-    <img alt="Current Spotify Song"> <!-- https://github.com/BrunoL0M/Spotify-Readme -->
-  </picture>
-</a>
-</div>
+
 
 <div align="center">
 
