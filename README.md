@@ -30,55 +30,6 @@
 
 <br clear="left"/>
 
-## 📈 Estadísticas:
-
-<div align="center">
-
-  <!-- Primer panel (GitHub Stats) -->
-  <div>
-    <picture>
-      <source
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-readme-stats.vercel.app/api?username=BrunoL0M&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default&bg_color=F6F8FA"
-      />
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=BrunoL0M&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
-      />
-      <img alt="GitHub Stats">
-    </picture>
-  </div>
-
-  <!-- Tercer panel (GitHub Streak Stats) -->
-  <div style="margin-left: 20px;">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=BrunoL0M&hide_border=true&ring=5D99FE&theme=default&background=F6F8FA&currStreakLabel=000"
-      />
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=BrunoL0M&hide_border=true&ring=5D99FE&theme=dark&background=161B22&currStreakLabel=FFF"
-      />
-      <img alt="GitHub Streak Stats">
-    </picture>
-  </div>
-</div>
-
-<!-- Segundo panel (Most Used Languages) -->
-<div align="center" margin-top: 20px;">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoL0M&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default&bg_color=F6F8FA"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoL0M&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
-    />
-    <img alt="Most Used Languages">
-  </picture>
-</div>
 
 ## Insignias y Certificaciones
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/BrunoOrtega-0929/CFXYG5P9?sharingId=452AE295AD660110"> 
