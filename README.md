@@ -1,4 +1,4 @@
-
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e98aa703-8fd5-4b5f-ad2b-5bee324f07fa" />
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/-Python-brown?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/-NumPy-lightblue?style=for-the-badge&logo=numpy&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/-Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black" />
@@ -15,17 +15,13 @@
     <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black" />
-    <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=VSCode&logoColor=white&labelColor=black" />
 
 </div>
 
-<hr>
-
-**`Ingeniero Software en Formacion `** - **`Inteligencia Artificial `** -**`Ciberseguridad`**
-
-<p>Soy Bruno Ortega, aspirante a <strong>ingeniero software</strong>, tengo un gran intereses hacia el desarrallo del software al igual que en otras areas como la de Inteligencia Artificial y la ciberseguridad, 
+<p>Soy Bruno Ortega, aspirante a <strong>ingeniero software</strong>, tengo un gran intereses hacia el desarrallo del software al igual que en otras areas como la de Inteligencia Artificial,ciberseguridad,automatizaciones entre otras cosas 
    actualmente estoy tratando de crear proyectos y espero que estos puedan tanto servirme a mi en la experiencia, como tambien al publico general que siempre uno busca
-   en como contribuir en proyectos de codigo abierto y tambien no duden en pedirme ayuda 😉.
+   en como contribuir en proyectos de codigo abierto.
 </p>
 
 <br clear="left"/>
@@ -40,9 +36,6 @@
   <img src="Certificaciones/google-cybersecurity-certificate.png" height="110px" alt="Insignia de Introducción a la Ciberseguridad" />
 </a>
 
-<a href="https://github.com/BrunoL0M/BrunoL0M/blob/main/Certificaciones/UC-BrunoOrtegaExcelAvanzado.pdf">
-  <img src="Certificaciones/Excel Icon.png" height="110px" alt="certificado Excel Avanzado" />
-</a>
 
 <a href="https://github.com/BrunoL0M/BrunoL0M/blob/main/Certificaciones/UC-AWSBrunoOrtega).pdf">
   <img src="Certificaciones/AWS.png" height="70px" alt="Certificado de arquitectura en la nube con AWS" />
