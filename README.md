@@ -19,9 +19,7 @@
 
 </div>
 
-<p>Soy Bruno Ortega, aspirante a <strong>ingeniero software</strong>, tengo un gran intereses hacia el desarrallo del software al igual que en otras areas como la de Inteligencia Artificial,ciberseguridad,automatizaciones entre otras cosas 
-   actualmente estoy tratando de crear proyectos y espero que estos puedan tanto servirme a mi en la experiencia, como tambien al publico general que siempre uno busca
-   en como contribuir en proyectos de codigo abierto.
+<p> Solo soy alguien que quiere crear grandes cosas, hacer que mi flujo de trabajo sea mas divertido e increible, construir proyectos de calidad
 </p>
 
 <br clear="left"/>
